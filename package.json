@@ -1,0 +1,19 @@
+{
+  "name": "ginkovera2dapreentrega",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanovera/GinkoVera2daPreEntrega.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nanovera/GinkoVera2daPreEntrega/issues"
+  },
+  "homepage": "https://github.com/nanovera/GinkoVera2daPreEntrega#readme"
+}
